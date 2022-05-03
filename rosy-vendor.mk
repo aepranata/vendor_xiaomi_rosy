@@ -1468,6 +1468,7 @@ PRODUCT_PACKAGES += \
     dpmserviceapp \
     ims \
     qcrilmsgtunnel \
+    libaudioparsers \
     vendor.qti.hardware.fm@1.0 \
     android.hardware.drm@1.3-service.widevine.xml \
     android.hardware.gnss@2.1-service-qti.xml \

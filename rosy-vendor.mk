@@ -975,6 +975,8 @@ PRODUCT_PACKAGES += \
     TimeService \
     PowerOffAlarm \
     QtiTelephonyService \
+    atfwd \
+    datastatusnotification \
     dpmserviceapp \
     ims \
     qcrilmsgtunnel \
